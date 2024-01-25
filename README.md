@@ -1,4 +1,4 @@
-# Genomic-and-transcriptomic-perspectives-on-the-origin-evolution-and-application-of-NUMTs
+# Genomic and transcriptomic perspectives on the origin, evolution and application of NUMTs sequences in Orthoptera 
 The major codes in the analysis of Nuclear mitochondrial DNA fragments (NUMTs).
 
 NUMT_blast_allmaker.py
